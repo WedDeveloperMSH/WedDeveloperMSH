@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/475044580_3832507713655032_7472647896384844268_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_ONroyzHDzcQ7kNvgEW05eZ&_nc_oc=AdgWW67hXaXGwl8CMhF5O7ZasUrjRY304PQvGOebZSlj6sIvcrQmJa-ukC_Y_0EcQpM&_nc_zt=23&_nc_ht=scontent.fdac27-2.fna&_nc_gid=AJRn__Rw86mT7-AHuNBEcuV&oh=00_AYDeCE2DIZIdEcYu6nlxa1Z_Bz1RQIn70qkQAFUEJGPplw&oe=67BFD75D" alt="banner image" width="600">
-</p>
-
 <h1 align="center">Hi 👋, I'm Md.Shahadat Hossain</h1>
 <h3 align="center">A passionate frontend developer Bangladesh</h3>
 
